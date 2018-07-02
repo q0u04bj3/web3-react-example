@@ -7,6 +7,8 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.16",
+    "semantic-ui-css": "^2.3.2",
+    "semantic-ui-react": "^0.81.3",
     "util.promisify": "^1.0.0",
     "web3": "0.19.0"
   },

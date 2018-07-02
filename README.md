@@ -1,6 +1,12 @@
 # web3-react-example
 Mess up web3 with React
 
+# install `Semantic-UI`
+```
+npm install semantic-ui-react --save
+npm install semantic-ui-css --save
+```
+
 # With `testrpc`
 > Use port 8545
 ```
