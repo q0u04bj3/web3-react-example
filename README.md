@@ -24,3 +24,4 @@ truffle develop
 yarn install
 yarn start
 ```
+![example](https://i.imgur.com/gSYvOKg.gif)
